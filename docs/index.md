@@ -21,7 +21,7 @@ features:
 ---
 
 
-```jsx
+```tsx
 /**
  * inline: true
  */
